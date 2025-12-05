@@ -9,4 +9,9 @@ Para isso foi necessário:
 5. Crie um apelido para o plugin e importe no início do arquivo js.
 6. Para executar a calculadora: no terminal digite node index.js
 
+## Regra de negócio
+Para quantidade de dias de vencimento >= 15 a taxa de juros é 10%
+e quantidade de dias de vencimento < 15 a taxa é de 5%
+
+
 
